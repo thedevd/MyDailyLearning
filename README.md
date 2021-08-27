@@ -11,5 +11,5 @@ This repo is to note down my learning stuffs during the day
     https://leetcode.com/problems/search-insert-position 
 
 * Teamcity: How to run commands on linux machine using SSH Exec build step
-  * This usecase is useful when we want to automate executing some set of commands on a machine, it could be installing some softwares on machine or creating some temparory files before executing next build step in team city.
+  * This usecase is useful when we want to automate executing some set of commands on a machine using SSH connection, it could be installing some softwares on machine or creating some temparory files before executing next build step in team city.
 
